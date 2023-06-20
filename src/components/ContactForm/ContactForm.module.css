@@ -1,0 +1,13 @@
+label {
+  margin: 5px;
+}
+
+button {
+  margin-left: 5px;
+  margin-top: 5px;
+}
+
+.form_input {
+  display: flex;
+  display: contents;
+}
